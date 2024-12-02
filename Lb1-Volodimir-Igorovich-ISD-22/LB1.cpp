@@ -17,7 +17,7 @@ int main()
     cin >> a;
     cout << "Enter a number: " << endl;
     cin >> b;
-    cout << "Function value y = f(a, b): " << funcY << endl;
+    cout << "Function value y = f(a, b): " << funcY(a, b) << endl;
 
     // int size = 999;
     // int array[size];
