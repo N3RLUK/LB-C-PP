@@ -9,8 +9,8 @@ double funcY(double a, double b)
 
 int main()
 {
-    double 4.0;
-    double 0.5;
+    double a = 4.0;
+    double b = 0.5;
     double a;
     double b;
     cout << "Enter a number: " << endl;
